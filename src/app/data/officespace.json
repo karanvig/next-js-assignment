@@ -1,0 +1,31 @@
+[
+    {
+        "heading":"Private offices",
+        "text":"A range of ready-to-use,fully equipped offices with everything you need to get started",
+        "price":"From $89 per person per month",
+        "image": "/images/table.png"
+    },
+    {
+        "heading":"Custom offices",
+        "text":"When off-the-shelf simply isn't enough.Customisable all aspects of your space,including furniture and branding",
+        "price":"From $89 per person per month",
+        "image": "/images/workarea.png"
+    },
+    {
+        "heading":"Day offices",
+        "text":"When off-the-shelf simply isn't enough.Customisable all aspects of your space,including furniture and branding",
+        "price":"From $25 per day",
+        "image": "/images/officespace.png"
+    },
+    {
+        "heading":"Office membership",
+        "text":"When off-the-shelf simply isn't enough.Customisable all aspects of your space,including furniture and branding",
+        "price":"From $25 per day",
+        "image": "/images/handshake.png"
+    }, {
+        "heading":"Need a helping hand ?",
+        "text":"When off-the-shelf simply isn't enough.Customisable all aspects of your space,including furniture and branding",
+        "price":"From $25 per day",
+        "image": "/images/person.png"
+    }
+]

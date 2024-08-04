@@ -1,0 +1,26 @@
+[
+    {
+      "name": "New Delhi",
+      "image": "/images/NewDelhi.png"
+    },
+    {
+      "name": "Noida",
+      "image": "/images/Noida.png"
+    },
+    {
+      "name": "Bangalore",
+      "image": "/images/Bangalore.png"
+    },
+    {
+        "name": "Mumbai",
+        "image": "/images/Mumbai.png"
+    },
+    {
+        "name": "Hyderabad",
+        "image": "/images/Hyderabad.png"
+    },
+    {
+        "name": "Chennai",
+        "image": "/images/Chennai.png"
+    }
+  ]

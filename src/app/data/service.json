@@ -1,0 +1,32 @@
+[
+    {
+        "heading": "Our Solutions",
+        "text": "Browse our full range of products and services",
+        "image": "/images/platform_icon.png"
+    },
+    {
+        "heading": "Talk to us ",
+        "text": "Get advice from one of our experts 24/7",
+        "image": "/images/expert_icon.png"
+    },
+    {
+        "heading": "Book workspace",
+        "text": "Book meeting rooms and day offices now",
+        "image": "/images/workspace_icon.png"
+    },
+    {
+        "heading": "Set up a virtual office",
+        "text": "Start building a real presence today",
+        "image": "/images/virtual_icon.png"
+    }, 
+    {
+        "heading": "Buy a Membership",
+        "text": "Start building a real presence today",
+        "image": "/images/membership_icon.png"
+    },
+    {
+        "heading": "Explore Our app",
+        "text": "Download our app and get started today",
+        "image": "/images/app_icons.png"
+    }
+]
