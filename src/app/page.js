@@ -13,6 +13,7 @@ import Question from './Components/Question';
 import question from './data/question.json'
 import Contact from './Components/Contact';
 import Details from './Components/Details';
+import GoToLandingPageButton from './Components/GoToLandingPageButton';
 
 export default function Home() {
   return (
@@ -40,6 +41,7 @@ export default function Home() {
       <Question questions={question}/>
       <Contact/>
       <Details/>
+      <GoToLandingPageButton />
     </div>
   );
 }
